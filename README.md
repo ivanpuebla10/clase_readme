@@ -1,20 +1,27 @@
 # Copia de Google
-Este proyecto consiste en una copia de google realizada en el bootcamp de desarrollo web full stack de **the bridge**.
+Este proyecto se trata de una copia de google realizada en el bootcamp de thebridge.
 
 ## Tecnologias
 * HTML
 * CSS
 
-## Instalacion y despliegue
-En primer lugar debes clonarte el repositorio a traves del siguiente enlace 
+### Instalacion y despliegue
+Para hacer funcionar este proyecto primero necesitas clonarte el repositorio desde el siguiente enlace:
 
 ```
 enlace al repo
 ```
-### Preview
+Luego de clonarte el repositorio, debes abrir la carpeta en visual studio code y darle a go live.
+
+#### Previews 
+
 ![foto](images/google.png)
 
 ---
-
 ## Autor
-> Hecho por [ivan](https://github.com/SofiaPinilla)
+
+Este proyecto fue desarrollado por : [Ivan Puebla](http://github.com/ivanpuebla10)
+
+
+
+
