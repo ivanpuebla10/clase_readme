@@ -17,4 +17,4 @@ enlace al repo
 ---
 
 ## Autor
-> Hecho por [ivan](link a tu perfil de github)
+> Hecho por [ivan](https://github.com/SofiaPinilla)
