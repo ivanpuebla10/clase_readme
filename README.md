@@ -2,7 +2,7 @@
 Este proyecto se trata de una copia de google realizada en el bootcamp de the bridge.
 
 ## Tecnologias
-_Este proyecto fue desarrollado con las siguientes tecnologias: 
+_Este proyecto fue desarrollado con las siguientes tecnologias:_ 
 
 * HTML
 * CSS
